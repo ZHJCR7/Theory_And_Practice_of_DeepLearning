@@ -20,9 +20,16 @@
 │  ├─Chapter02-5编程作业--TensorFlow
 │  └─笔记C
 ├─Chapter03 Convolution Neural Networks
-│  ├─Chapter02-1编程作业--Initialization
+│  ├─Chapter03-1编程作业--The implement of Layers&Propagation in Numpy
+│  ├─特别编程作业之手写数字识别--CNN_Based_on_Numpy
+│  ├─Chapter03-2编程作业--Convolutional Neural Networks Use TensorFlow
+│  ├─Chapter03-3编程作业--Keras Tutorial-The Happy House(not graded)
+│  ├─Chapter03-4编程作业--Residual Networks
+│  ├─Chapter03-5编程作业--
+│  ├─Chapter03-6编程作业--
+│  ├─Chapter03-7编程作业--
 │  └─笔记D
-│	更新中
+End
 ```
 
 # 参考博客
